@@ -47,4 +47,5 @@ Usage
 
 Screenshots
 <img width="1063" height="892" alt="weather-app" src="https://github.com/user-attachments/assets/f82066fe-a5b9-4d7a-865b-c3d3fe47f3a8" />
-
+<img width="817" height="856" alt="weather-app2" src="https://github.com/user-attachments/assets/cfd52bd6-b4eb-4955-813a-408295db5b77" />
+<img width="758" height="876" alt="weather-app3" src="https://github.com/user-attachments/assets/8996418b-6e4a-4ec6-abbe-9845243106cb" />
