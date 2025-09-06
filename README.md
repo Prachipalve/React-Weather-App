@@ -1,12 +1,50 @@
-# React + Vite
+React Weather App
+A responsive React application that displays real-time weather information for any city using the OpenWeather API. Built with React and Material UI for a clean and modern interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+- Search weather by city name.
+- Displays:
+    - Temperature
+    - Minimum & maximum temperature
+    - Feels like temperature
+    - Humidity
+    - Weather description
+- Material UI cards for a modern look.
+- Error handling for invalid city names.
 
-Currently, two official plugins are available:
+Technologies Used
+- React + Vite
+- Material UI
+- OpenWeather API
+- JavaScript (ES6+)
+- CSS / Material UI styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installation
 
-## Expanding the ESLint configuration
+1. Clone the repository
+git clone https://github.com/Prachipalve/React-Weather-App.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Go to project folder
+cd React-Weather-App
+
+3. Install dependencies
+npm install
+
+4. Start the development server
+npm run dev
+
+
+5. Open your browser
+Go to http://localhost:5173 (or the URL shown in your terminal).
+
+
+Usage
+
+1. Enter a city name in the search box.
+2. Click Search.
+3. View weather information on the card.
+4. If the city does not exist, an error message appears.
+
+Screenshots
+<img width="1063" height="892" alt="weather-app" src="https://github.com/user-attachments/assets/f82066fe-a5b9-4d7a-865b-c3d3fe47f3a8" />
+
